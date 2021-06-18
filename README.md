@@ -5,6 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:afsarulislammeraj4@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/m3r4j)
+<img src="https://komarev.com/ghpvc/?username=aim3r4j&label=Profile%20views&color=0e75b6&style=flat" alt="aim3r4j" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Computer+Nerd;Full-Stack+Web+Developer;Beginner+Software+Developer;Solving+through+Coding;Can+handle+Linux,+Windows+and+MacOS">
