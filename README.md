@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=aim3r4j&label=Profile%20views&color=0e75b6&style=flat" alt="aim3r4j" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Computer+Nerd;Full-Stack+Web+Developer;Beginner+Software+Developer;Solving+through+Coding;Can+handle+Linux,+Windows+and+MacOS">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Computer+Nerd;Full-Stack+Web+Developer;Software+Developer;Solving+through+Coding;Can+handle+Linux,+Windows+and+MacOS">
 </p>
 
 ## Connect with me:
